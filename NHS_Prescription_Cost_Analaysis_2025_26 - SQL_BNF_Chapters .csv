@@ -1,0 +1,22 @@
+financial_year ,bnf_chapter_code ,bnf_chapter_name,total_items,total_cost ,cost_per_item
+2025/2026,01,Gastro-Intestinal System,"120,856,411","740,386,441.53",6.13
+2025/2026,02,Cardiovascular System,"392,260,162","1,201,327,864.43",3.06
+2025/2026,03,Respiratory System,"75,291,533","1,251,217,381.32",16.62
+2025/2026,04,Central Nervous System,"242,802,890","1,658,678,166.68",6.83
+2025/2026,05,Infections,"40,770,492","237,354,471.76",5.82
+2025/2026,06,Endocrine System,"147,791,369","2,409,811,556.86",16.31
+2025/2026,07,"Obstetrics, Gynaecology and Urinary-Tract Disorders","37,272,664","304,439,667.38",8.17
+2025/2026,08,Malignant Disease and Immunosuppression,"4,714,310","182,255,426.89",38.66
+2025/2026,09,Nutrition and Blood,"73,602,005","968,488,385.75",13.16
+2025/2026,10,Musculoskeletal and Joint Diseases,"32,649,871","148,442,413.08",4.55
+2025/2026,11,Eye,"15,549,224","176,077,809.56",11.32
+2025/2026,12,"Ear, Nose and Oropharynx","11,830,777","97,620,115.30",8.25
+2025/2026,13,Skin,"27,043,811","330,646,286.56",12.23
+2025/2026,14,Immunological Products and Vaccines,"14,978,100","251,728,716.44",16.81
+2025/2026,15,Anaesthesia,"1,835,408","25,287,585.70",13.78
+2025/2026,18,Preparations used in Diagnosis,47,"10,587.50",225.27
+2025/2026,19,Other Drugs and Preparations,"581,897","11,626,309.82",19.98
+2025/2026,20,Dressings,"5,215,344","179,956,754.27",34.51
+2025/2026,21,Appliances,"41,517,499","940,617,978.75",22.66
+2025/2026,22,Incontinence Appliances,"2,798,692","70,769,292.65",25.29
+2025/2026,23,Stoma Appliances,"8,154,201","455,130,338.37",55.82
